@@ -33,10 +33,6 @@ header,
 #link {
   color: yellowgreen;
 }
-#linea {
-  height: 1px;
-  background-color: blue;
-}
 
 #lista {
   line-height: 40px;
