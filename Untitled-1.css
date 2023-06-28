@@ -16,27 +16,23 @@ header,
   border-top: 1px solid blue;
 }
 
-#grigio {
-  color: grey;
-}
-
-#red {
-  color: red;
-}
 #layout {
   width: 500px;
   margin: auto;
+}
+#grigio {
+  color: grey;
 }
 
 #flex {
   border-left: 1px solid red;
   padding: 10px;
 }
+#red {
+  color: red;
+}
 #link {
   color: yellowgreen;
-}
-#text {
-  padding: 20px;
 }
 #linea {
   height: 1px;
